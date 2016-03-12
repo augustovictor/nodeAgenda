@@ -1,0 +1,26 @@
+{
+  "name": "nodeAgenda",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/victoraweb/nodeAgenda.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/victoraweb/nodeAgenda/issues"
+  },
+  "homepage": "https://github.com/victoraweb/nodeAgenda#readme",
+  "dependencies": {
+    "ejs": "^2.4.1",
+    "express": "^4.13.4",
+    "express-load": "^1.1.15",
+    "nodemon": "^1.9.1"
+  }
+}
